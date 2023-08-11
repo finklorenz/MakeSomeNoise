@@ -13,4 +13,4 @@ CITATION-TBD
 ### Dataset:
 The dataset was self created can be downloaded here: https://doi.org/10.48436/hv20e-zzb35
 
-Additionally, for an unknown sounds class was used, which come from *ESC-50: Dataset for Environmental Sound Classification*msdv, it can be found here: https://github.com/karolpiczak/ESC-50
+Additionally, an *unknown sounds* class was used, which come from *ESC-50: Dataset for Environmental Sound Classification*msdv, it can be found here: https://github.com/karolpiczak/ESC-50
