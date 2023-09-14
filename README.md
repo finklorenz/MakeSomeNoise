@@ -1,4 +1,4 @@
-# Manufacturing_Sound_Classification
+# Manufacturing Sound Classification
 
 This is the code for our contribution to the 10th CIRP Conference on Assembly Technology and Systems (CIRP CATS).
 
